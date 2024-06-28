@@ -1,7 +1,4 @@
  .DS_Store
  .gitignore
 db.sqlite3
-document/
-manage.py
-notes/
 venv/
